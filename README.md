@@ -48,6 +48,6 @@ pip install numpy pandas matplotlib seaborn jupyter streamlit
    streamlit run dashboard.py
    ```
 ## Streamlit Cloud :
-Streamlit Cloud : [Bike_Rent Dashboard](https://bikesharingsteven.streamlit.app/)
+Streamlit Cloud : [Bike_Rent Dashboard](https://bikesharinganalysis-rifqinabil.streamlit.app/)
 
 
