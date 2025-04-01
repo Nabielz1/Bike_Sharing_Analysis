@@ -1,1 +1,1 @@
-bikesharinganalysis-rifqinabil.streamlit.app
+https://bikesharinganalysis-rifqinabil.streamlit.app/
