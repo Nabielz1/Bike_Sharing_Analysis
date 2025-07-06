@@ -43,7 +43,6 @@ numpy==2.2.4
 opencv-python==4.11.0.86
 packaging==24.2
 pandas==2.2.3
-pandass==1.11.4
 parso==0.8.4
 pillow==11.1.0
 pipreqs==0.4.13
